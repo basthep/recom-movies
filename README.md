@@ -1,1 +1,1 @@
-# recom-movies
+streamlit run app.py
